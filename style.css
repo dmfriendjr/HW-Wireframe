@@ -21,6 +21,7 @@ section {
 	width: 495px;
 	float: left;
 	margin-bottom: 25px;
+	height: 300px;
 }
 
 article {
@@ -32,7 +33,7 @@ article {
 aside {
 	float: right;
 	width: 400px;
-	height: 291px;
+	height: 320px;
 }
 
 aside p {
@@ -53,4 +54,8 @@ div {
 h1, h2, h3 {
 	display: inline;
 	font-size: 20px;
+}
+
+.section-label {
+	padding: 10px;
 }
